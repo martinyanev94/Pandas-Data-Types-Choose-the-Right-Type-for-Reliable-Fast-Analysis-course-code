@@ -1,0 +1,2 @@
+# Pandas-Data-Types-Choose-the-Right-Type-for-Reliable-Fast-Analysis-course-code
+Master pandas data types so you can choose the right dtype for reliable, fast analysis—from NumPy defaults to pandas extension types and Arrow. This lesson shows how dtype choices shape allowed values, missing-value behavior, and performance in real DataFrames. You will learn when NumPy-backed types promote integers to float64, why pandas extension
