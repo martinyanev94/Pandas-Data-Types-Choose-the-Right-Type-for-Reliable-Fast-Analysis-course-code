@@ -1,0 +1,15 @@
+import pyarrow as pa
+
+
+
+ser = pd.Series([
+
+    "2024-01-01",
+
+    "2024-01-02",
+
+    "2024-01-03",
+
+], dtype=pd.ArrowDtype(pa.date32()))
+
+ser
